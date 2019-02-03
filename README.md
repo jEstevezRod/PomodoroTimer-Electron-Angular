@@ -1,27 +1,25 @@
-# PomodoroTimer
+PomodoroTimer
+---
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
+Project based on a Pomodoro Timer. The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. Each interval is known as a pomodoro, from the Italian word for a tomato, after the tomato-shaped kitchen timer that Cirillo used as a university student.
 
-## Development server
+What will I use to develop the project ?
+---
+* Angular 7
+* Electron 4
+* Bootstrap 4 , FontAwesome 5, Material Design
+* Firebase ( AnagularFirebase)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Objetives :
+---
+* Integrate Angular, Electron and AngularFirebase.
+* Make a CRUD system.
+* Generate installer for Windows, Mac and Linux.
 
-## Code scaffolding
+Why I develop this idea?
+---
+Just personal purposes, the idea of develop desktop applications is something that always I would like to learn, so the time has come.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+What have I learned doing this project?
+---
+Right now is on building, but the main idea is learn Electron framework.
